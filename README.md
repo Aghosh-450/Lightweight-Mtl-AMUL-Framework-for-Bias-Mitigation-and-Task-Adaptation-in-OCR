@@ -1,0 +1,1 @@
+# Lightweight-Mtl-AMUL-Framework-for-Bias-Mitigation-and-Task-Adaptation-in-OCR
